@@ -1,0 +1,5 @@
+C:\Projects\Research\SchemaChangesDemo\Organization\packages\FluentMigrator.1.6.2\tools\Organization.dll
+C:\Projects\Research\SchemaChangesDemo\Organization\packages\FluentMigrator.1.6.2\tools\Organization.pdb
+C:\Projects\Research\SchemaChangesDemo\Organization\Organization\obj\Debug\Organization.csprojResolveAssemblyReference.cache
+C:\Projects\Research\SchemaChangesDemo\Organization\Organization\obj\Debug\Organization.dll
+C:\Projects\Research\SchemaChangesDemo\Organization\Organization\obj\Debug\Organization.pdb
