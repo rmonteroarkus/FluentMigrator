@@ -45,6 +45,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="otroCambio.cs" />
+    <Compile Include="ultimoCambio.cs" />
+    <Compile Include="_0_comoSellame.cs" />
     <Compile Include="_1_CreateDepartment.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="_2_CreateEmployee.cs" />
